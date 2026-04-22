@@ -93,5 +93,5 @@ Execute um exercício: <br>python 1000.py
 <p><strong>Guilherme Bouvier</strong><br> Desenvolvedor em evolução contínua 🚀</p>
 
 
-⭐ Apoie
+## ⭐ Apoie
 <p>Se este repositório te ajudou, deixe uma ⭐ para apoiar o projeto!</p> 
