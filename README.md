@@ -2,7 +2,6 @@
 
 <p>Repositório dedicado à resolução de exercícios da plataforma Beecrowd, com foco em prática de lógica de programação, algoritmos e boas práticas de desenvolvimento.</p>
 
----
 
 ## 🎯 Objetivo
 
@@ -14,13 +13,11 @@
 - Criar um histórico de evolução como desenvolvedor
 - Compartilhar soluções com a comunidade
 
----
 
 ## 🧠 Sobre o Beecrowd
 
 <p>O Beecrowd é uma plataforma de desafios de programação que ajuda desenvolvedores a evoluírem suas habilidades através de problemas práticos, muito utilizada por iniciantes e também em entrevistas técnicas.</p>
 
----
 
 ## 📂 Estrutura do Projeto
 
@@ -44,13 +41,11 @@
 <p> - Cada arquivo corresponde a um problema da plataforma</p>
 <p> - O nome do arquivo representa o ID do exercício</p>
 
----
 
 ## 🚀 Tecnologias Utilizadas
 
 <p> - Python 🐍 <br> - (Possível expansão para outras linguagens no futuro)</p>
 
----
 
 ## 🧩 Como Executar os Exercícios
 
@@ -60,7 +55,6 @@ Acesse a pasta: <br>cd exercicios-beecrowd
 
 Execute um exercício: <br>python 1000.py
 
----
 
 ## 📈 Progresso
 
@@ -70,7 +64,6 @@ Execute um exercício: <br>python 1000.py
 | Intermediário | ⏳ Em progresso  |
 | Avançado      | 🔒 Em breve      |
 
----
 
 ## ✍️ Padrão das Soluções
 
@@ -79,14 +72,12 @@ Execute um exercício: <br>python 1000.py
 <p> - Comentários quando necessário</p>
 <p> - Respeitando entrada/saída exigida pelo Beecrowd</p>
 
----
 
 ## 📌 Observações
 <p> - Os exercícios seguem exatamente o padrão exigido pela plataforma<br> 
 - Não há interface gráfica, apenas entrada e saída padrão (stdin/stdout)<br>
 - Ideal para estudo e prática contínua</p>
 
----
 
 ## 🤝 Contribuição
 
@@ -96,13 +87,11 @@ Execute um exercício: <br>python 1000.py
 - Enviar novas soluções
 - Compartilhar abordagens diferentes
 
----
 
 ## 👨‍💻 Autor
 
 <p><strong>Guilherme Bouvier</strong><br> Desenvolvedor em evolução contínua 🚀</p>
 
----
 
 ⭐ Apoie
 <p>Se este repositório te ajudou, deixe uma ⭐ para apoiar o projeto!</p> 
