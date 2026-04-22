@@ -24,21 +24,21 @@
 
 ## 📂 Estrutura do Projeto
 
-📁 exercicios-beecrowd/
-│
-├── 📁 iniciante/
-│   ├── 1000.py
-│   ├── 1001.py
-│   └── ...
-│
-├── 📁 intermediario/
-│   ├── 1020.py
-│   └── ...
-│
-├── 📁 avancado/
-│   └── ...
-│
-└── README.md
+<p>📁 exercicios-beecrowd/</p>
+<p>│</p>
+<p>├── 📁 iniciante/</p>
+<p>│   ├── 1000.py</p>
+<p>│   ├── 1001.py</p>
+<p>│   └── ...</p>
+<p>│</p>
+<p>├── 📁 intermediario/</p>
+<p>│   ├── 1020.py</p>
+<p>│   └── ...</p>
+<p>│</p>
+<p>├── 📁 avancado/</p>
+<p>│   └── ...</p>
+<p>│</p>
+<p>└── README.md</p>
 
 <p> - Os exercícios estão organizados por nível de dificuldade</p>
 <p> - Cada arquivo corresponde a um problema da plataforma</p>
@@ -53,22 +53,23 @@
 ## 🧩 Como Executar os Exercícios
 
 <p>Clone o repositório:</p>
-git clone https://github.com/seu-usuario/exercicios-beecrowd.git
+<p>git clone https://github.com/seu-usuario/exercicios-beecrowd.git</p>
 
 <p>Acesse a pasta:</p>
-cd exercicios-beecrowd
+<p>cd exercicios-beecrowd</p>
 
 <p>Execute um exercício:</p>
-python 1000.py
+<p>python 1000.py</p>
 
 ---
 
 ## 📈 Progresso
 
-Nível	                     Quantidade
-Iniciante	                 ✔️ Em andamento
-Intermediário	             ⏳ Em progresso
-Avançado	                 🔒 Em breve
+| Nível         | Quantidade       |
+|---------------|------------------|
+| Iniciante     | ✔️ Em andamento  |
+| Intermediário | ⏳ Em progresso  |
+| Avançado      | 🔒 Em breve      |
 
 ---
 
@@ -105,4 +106,4 @@ Avançado	                 🔒 Em breve
 ---
 
 ⭐ Apoie
-<p>Se este repositório te ajudou, deixe uma ⭐ para apoiar o projeto!</p> ```
+<p>Se este repositório te ajudou, deixe uma ⭐ para apoiar o projeto!</p> 
