@@ -53,13 +53,13 @@
 ## 🧩 Como Executar os Exercícios
 
 <p>Clone o repositório:</p>
-<p>git clone https://github.com/seu-usuario/exercicios-beecrowd.git</p>
+git clone https://github.com/seu-usuario/exercicios-beecrowd.git
 
 <p>Acesse a pasta:</p>
-<p>cd exercicios-beecrowd</p>
+cd exercicios-beecrowd
 
 <p>Execute um exercício:</p>
-<p>python 1000.py</p>
+python 1000.py
 
 ---
 
