@@ -24,12 +24,12 @@
 <p>📁 exercicios-beecrowd/</p>
 <p>│</p>
 <p>├── 📁 iniciante/</p>
-<p>│   ├── 1000.py</p>
-<p>│   ├── 1001.py</p>
+<p>│   ├── Bee 1000.py</p>
+<p>│   ├── Bee 1001.py</p>
 <p>│   └── ...</p>
 <p>│</p>
 <p>├── 📁 intermediario/</p>
-<p>│   ├── 1020.py</p>
+<p>│   ├── Bee 1020.py</p>
 <p>│   └── ...</p>
 <p>│</p>
 <p>├── 📁 avancado/</p>
