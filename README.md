@@ -50,8 +50,9 @@
 
 <p> - Python 🐍 <br> - (Possível expansão para outras linguagens no futuro)</p>
 
-## 🧩 Como Executar os Exercícios
+---
 
+## 🧩 Como Executar os Exercícios
 
 Clone o repositório: <br> git clone https://github.com/seu-usuario/exercicios-beecrowd.git
 
